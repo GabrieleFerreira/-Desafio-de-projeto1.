@@ -1,6 +1,6 @@
-# Desafio de projeto1.
-Decola Tech 3a edição
+# Decola Tech 3a edição
 
+Desafio de projeto1.
 
 Crie uma função que recebe dois números.
 
